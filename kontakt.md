@@ -27,3 +27,16 @@ Kontakt
 - 073 - 344 70 98
 
 Ordförande _Mikael Svensson_ kan kontaktas i de flesta ärenden.
+
+
+Styrelse
+--------
+
+- Ordförande: Mikael Svensson
+- Vice ordförande: Roland Schmidt
+- Kassör: Sven Nilsson
+- Sekreterare: Olof Barr
+
+Kontaktuppgifter till styrelsen utelämnas medvetet härifrån, utan är
+enbart delgivna i formella sammanhang till förbundet samt
+kommunen. Kontakt sker med ordförande enligt ovan.
