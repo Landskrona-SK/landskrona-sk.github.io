@@ -10,13 +10,13 @@ Aktuella tävlingar
 
  - [LM 2023](https://member.schack.se/ShowTournamentServlet?id=12652)
 
-<iframe src="http://member.schack.se/ShowTournamentServlet?id=12652"
+<iframe src="https://member.schack.se/ShowTournamentServlet?id=12652"
         width="800" height="800"></iframe><br>
 
  - [Allsvenskan Div. II gr.8
 2023/2024](https://member.schack.se/ShowTournamentServlet?id=11855)
 
-<iframe src="http://member.schack.se/ShowTournamentServlet?id=11855"
+<iframe src="https://member.schack.se/ShowTournamentServlet?id=11855"
         width="800" height="800"></iframe><br>
 
 
