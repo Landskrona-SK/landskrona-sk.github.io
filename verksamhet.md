@@ -25,10 +25,21 @@ barn. Vi rekommenderar därför föräldrar att kontakta föreningen i förväg
 för att kolla tillgängligheten.
 
 
+Angående det höga intresset bland barn och ungdomar
+--------
+
+För närvarande har vi en ganska lång väntelista med intresserade barn
+och ungdomar. Intresset har formligen exploderat senaste året, så till
+den grad att vår begränsade tillgänglighet gjort att vi inte kan ta
+hand om fler just nu. Vi tittar på lösningar, och alla är fortfarande
+välkomna att höra av sig under [Kontakt]({{ site.baseurl }}{% link
+kontakt.md %}) för att veta mer.
+
+
 Medlemsavgifter
 ---------------
 
-_För kalenderåret 2022_
+_För kalenderåret 2023_
 
 - **Vuxna:** 500 kr
 - **Ungdomar:** 200 kr
