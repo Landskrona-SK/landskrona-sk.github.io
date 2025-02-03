@@ -8,9 +8,9 @@ permalink: /turneringar/
 Aktuella tävlingar
 ------------------
 
- - [LM 2024](https://member.schack.se/ShowTournamentServlet?id=14749)
+ - [KM 2025](https://member.schack.se/ShowTournamentServlet?id=15664)
 
-<iframe src="https://member.schack.se/ShowTournamentServlet?id=14749"
+<iframe src="https://member.schack.se/ShowTournamentServlet?id=15664"
         width="800" height="800"></iframe><br>
 
  - [Allsvenskan Div. III gr.8
@@ -23,6 +23,8 @@ Aktuella tävlingar
 Gamla tävlingar
 ---------------
 
+ - [Snabb-KM 2024](https://member.schack.se/ShowTournamentServlet?id=15611)
+ - [LM 2024](https://member.schack.se/ShowTournamentServlet?id=14749)
  - [Snabb-LM 2024](https://member.schack.se/ShowTournamentServlet?id=14644)
  - [KM 2024](https://member.schack.se/ShowTournamentServlet?id=13706)
  - [Allsvenskan Div. II gr.8
