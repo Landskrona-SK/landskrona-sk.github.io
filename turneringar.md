@@ -23,11 +23,13 @@ Aktuella tävlingar
 Gamla tävlingar
 ---------------
 
+ - [Snabb-KM 2026](https://member.schack.se/ShowTournamentServlet?id=17955)
+ - [LM 2025](https://member.schack.se/ShowTournamentServlet?id=16945)
  - [Snabb-LM 2025](https://member.schack.se/ShowTournamentServlet?id=16883)
  - [KM 2025](https://member.schack.se/ShowTournamentServlet?id=15664)
  - [Allsvenskan Div. III gr.8
 2024/2025](https://member.schack.se/ShowTournamentServlet?id=14272)
- - [Snabb-KM 2024](https://member.schack.se/ShowTournamentServlet?id=15611)
+ - [Snabb-KM 2025](https://member.schack.se/ShowTournamentServlet?id=15611)
  - [LM 2024](https://member.schack.se/ShowTournamentServlet?id=14749)
  - [Snabb-LM 2024](https://member.schack.se/ShowTournamentServlet?id=14644)
  - [KM 2024](https://member.schack.se/ShowTournamentServlet?id=13706)
